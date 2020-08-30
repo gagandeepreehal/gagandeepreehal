@@ -3,11 +3,6 @@
 ## Gagandeep Reehal
 *__Author, AI Engineer & Entrepreneur__ \
 Founder & CEO, Director of Research Engineering -* **Minus Zero**
-
-<p> <img align="left" src="https://avatars3.githubusercontent.com/u/70444900?s=180&v=4" width="50" height="50" />
-  <b> Minus Zero </b> <br>
-  <i> Building the Impossible - Self-Driving Cars, Cognitive Humanoids, HoloVision and more - in India </i> </p>
-
 ____
 ### About
 
@@ -20,3 +15,8 @@ ____
 ### Connect with Me -
 [LinkedIn](https://www.linkedin.com/in/gagandeepreehal) \
 [Instagram](https://www.instagram.com/gagandeep.reehal)
+___
+#### My Brainchild -
+<p> <img align="left" src="https://avatars3.githubusercontent.com/u/70444900?s=180&v=4" width="50" height="50" />
+  <b> Minus Zero </b> <br>
+  <i> Building the Impossible - Self-Driving Cars, Cognitive Humanoids, HoloVision and more - in India </i> </p>
