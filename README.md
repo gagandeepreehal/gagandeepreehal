@@ -15,3 +15,4 @@ He has mentored and judged numerous developer/hacking events worldwide, spoken a
 ___
 ### Connect with Me -
 [LinkedIn](https://www.linkedin.com/in/gagandeepreehal)
+[Instagram](https://www.instagram.com/gagandeep.reehal)
