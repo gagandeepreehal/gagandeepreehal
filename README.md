@@ -2,7 +2,7 @@
 
 ## Gagandeep Reehal
 *__Author, AI Engineer & Entrepreneur__ \
-Founder & CEO, Director of Research Engineering (Minus Zero)*
+Founder & CEO, Director of Research Engineering -* **Minus Zero**
 
 <p> <img align="left" src="https://avatars3.githubusercontent.com/u/70444900?s=180&v=4" width="50" height="50" />
   <b> Minus Zero </b> <br>
