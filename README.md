@@ -14,5 +14,5 @@ He shares a stronghold passion for CS. He is presently involved in multiple proj
 He has mentored and judged numerous developer/hacking events worldwide, spoken at leading conferences, organised global events including TEDx and is currently incubating his startup 'Minus Zero'.
 ___
 ### Connect with Me -
-[LinkedIn](https://www.linkedin.com/in/gagandeepreehal)
+[LinkedIn](https://www.linkedin.com/in/gagandeepreehal) \
 [Instagram](https://www.instagram.com/gagandeep.reehal)
