@@ -1,5 +1,3 @@
-
-
 ## Gagandeep Reehal
 *__Author, AI Engineer & Entrepreneur__ \
 Founder & CEO, Director of Research Engineering -* **Minus Zero**
