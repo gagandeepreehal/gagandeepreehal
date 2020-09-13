@@ -14,7 +14,7 @@ ___
 
 ### Armoury
 
-> Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Algorithm Design, Cognitive Tech, Mixed Reality, Research, Internet of Things
+Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Algorithm Design, Cognitive Tech, Mixed Reality, Research, Internet of Things
 
 ____
 ### Connect with Me -
