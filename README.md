@@ -4,11 +4,12 @@ Founder & CEO, Director of Research Engineering -* **Minus Zero**
 ____
 ### About
 
-Gagandeep Reehal is an Indian writer, AI Engineer, independent researcher and technology entrepreneur. Having just been 16 years old when he penned down his first book, he has been writing ever since. He already has two book publications to his credit, with numerous works having been appeared in various magazines and journals.
+Gagandeep Reehal is an author, AI Engineer, deep-tech researcher and a technology entrepreneur. He is presently involved in multiple projects related to Applied AI & Deep Learning, Product Design and Inter-disciplinary Research particularly in domain of Computational Particle Physics, Cognitive AI, AR and Autonomous Vehicles/Robotics.
 
-He shares a stronghold passion for CS. He is presently involved in multiple projects related to Applied AI & Deep Learning, Product Design and Inter-disciplinary Research particularly in domain of Computational Particle Physics, Cognitive AI, AR and Autonomous Vehicles/Robotics.
+Having just been 16 years old when he penned down his first book, he has been writing ever since. He already has two book publications to his credit, with numerous works having been appeared in various magazines and journals.
 
-He has mentored and judged numerous developer/hacking events worldwide, spoken at leading conferences, organised global events including TEDx and is currently incubating his startup 'Minus Zero'.
+He has mentored and judged numerous developer/hacking events worldwide, spoken at leading conferences, organized global events including TEDx and is currently incubating his startup 'Minus Zero' working on Self Driving Cars, Cognitive Humanoids and Holographic Projections in India. 
+
 ___
 
 
