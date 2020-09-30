@@ -1,5 +1,5 @@
 # Gagandeep Reehal
-*__Author, AI Engineer & Entrepreneur__ \
+*__Author, AI Engineer & Technologist__ \
 Founder, CEO & CTO -* **Minus Zero**
 ____
 ### About
