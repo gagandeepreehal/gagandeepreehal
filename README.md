@@ -1,5 +1,5 @@
 # Gagandeep Reehal
-Founder, CEO & CTO -* **Minus Zero**
+*Founder, CEO & CTO -* **Minus Zero**
 ____
 ### About
 
