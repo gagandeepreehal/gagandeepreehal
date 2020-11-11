@@ -1,6 +1,6 @@
 # Gagandeep Reehal
-*Founder, CEO & CTO -* **Minus Zero**
-*Chief Advisor & Board Member -* **Fermi Center for Applied Sciences**
+- *Founder, CEO & CTO -* **Minus Zero**
+- *Chief Advisor & Board Member -* **Fermi Center for Applied Sciences**
 ____
 ### About
 
@@ -29,4 +29,8 @@ ___
 <p> <img align="left" src="https://avatars3.githubusercontent.com/u/70444900?s=180&v=4" width="50" height="50" />
   <b> <a href="https://minuszero.in"> Minus Zero </a> </b> <br>
   <i> Building the Impossible - Self-Driving Cars, Cognitive Humanoids, HoloVision and more - in India </i> </p>
+
+<p> <img align="left" src="https://avatars1.githubusercontent.com/u/73734621?s=200&v=4" width="50" height="50" />
+  <b> <a href="https://fermi.in"> Fermi Center for Applied Sciences </a> </b> <br>
+  <i> Nurturing frugal innovation in India </i> </p>
 
