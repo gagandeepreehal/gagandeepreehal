@@ -4,11 +4,11 @@
 ____
 ### About
 
-Gagandeep Reehal is a deep-tech engineer, AI researcher, author and a technology entrepreneur, presently involved in multiple projects related to Applied AI & Deep Learning, Product Design and Inter-disciplinary Research particularly in domain of Computational Physics, Cognitive & Human-centered AI, and Autonomous Vehicles/Robotics.
+Gagandeep Reehal is a deep-tech engineer, AI researcher, author and a technology entrepreneur, presently involved in multiple projects related to Applied Artificial Intelligence, Product Design and Inter-disciplinary Research particularly in domain of Cognitive & Human-centered AI, Autonomous Vehicles/Robotics and High Performance Computing
 
 Having just been 16 years old when he penned down his first book, he has been writing ever since. He already has two book publications to his credit, with numerous works having been appeared in various magazines and journals.
 
-He has mentored and judged 65+ developer/hacking events worldwide, spoken at leading conferences, and is currently incubating his startup 'Minus Zero' working on Self Driving Cars, Cognitive Humanoids and Holographic Projections in India. 
+He has mentored and judged 65+ developer/hacking events worldwide, spoken at leading conferences, and is currently incubating his startup 'Minus Zero' working on Self Driving Cars and Cognitive Humanoids in India.  
 
 ___
 
