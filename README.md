@@ -14,9 +14,9 @@ ___
 
 ### Armoury
 
-- Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Algorithm Design, Cognitive Tech, Mixed Reality, Research, Internet of Things
+- Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Algorithm Design, Research, Internet of Things
 
-- Python, Java, C++, PyTorch, Tensorflow, Keras, Node.js, MATLAB, OpenCV, Flutter, Jupyter, JavaScript, Anaconda, HTML5, CSS, Scikit-Learn, OS Kernels, Github
+- Python, Java, C++, PyTorch, Tensorflow, Keras, Node.js, MATLAB, OpenCV, Flutter, Jupyter, JavaScript, Anaconda, Scikit-Learn, OS Kernels, Github
 
 ____
 ### Connect with Me -
@@ -27,7 +27,7 @@ ___
 #### My Brainchild -
 <p> <img align="left" src="https://avatars3.githubusercontent.com/u/70444900?s=180&v=4" width="50" height="50" />
   <b> <a href="https://minuszero.in"> Minus Zero </a> </b> <br>
-  <i> Building the Impossible - Self-Driving Cars, Cognitive Humanoids, HoloVision and more - in India </i> </p>
+  <i> Building Self-Driving Electric Cars in India </i> </p>
 
 <p> <img align="left" src="https://avatars1.githubusercontent.com/u/73734621?s=200&v=4" width="50" height="50" />
   <b> <a href="https://fermi.in"> Fermi Center for Applied Sciences </a> </b> <br>
