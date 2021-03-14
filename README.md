@@ -14,7 +14,7 @@ ___
 
 ### Armoury
 
-- Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Algorithm Design, Research, Internet of Things
+- Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Reinforcement Learning, Algorithm Design, Research, Internet of Things
 
 - Python, Java, C++, PyTorch, Tensorflow, Keras, Node.js, MATLAB, OpenCV, Flutter, Jupyter, JavaScript, Anaconda, Scikit-Learn, OS Kernels, Github
 
