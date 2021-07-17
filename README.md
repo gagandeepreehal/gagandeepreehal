@@ -8,7 +8,7 @@ Gagandeep Reehal is a deep-tech engineer, AI researcher, author and a technology
 
 Having just been 16 years old when he penned down his first book, he has been writing ever since. He already has three book publications to his credit, with numerous works having been appeared in various magazines and journals.
 
-He has mentored and judged 65+ developer/hacking events worldwide, spoken at leading conferences, and is currently building his startup 'Minus Zero' working on Self Driving Electric Cars in India. 
+He has mentored and judged 65+ developer/hacking events worldwide, spoken at leading conferences, and is currently building his startup 'Minus Zero' working on Self Driving  Cars in India. 
 ___
 
 
