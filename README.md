@@ -29,7 +29,3 @@ ___
   <b> <a href="https://minuszero.in"> Minus Zero </a> </b> <br>
   <i> Building Self-Driving Electric Cars in India </i> </p>
 
-<p> <img align="left" src="https://avatars1.githubusercontent.com/u/73734621?s=200&v=4" width="50" height="50" />
-  <b> <a href="https://fermi.in"> Fermi Center for Applied Sciences </a> </b> <br>
-  <i> Nurturing frugal innovation in India </i> </p>
-
