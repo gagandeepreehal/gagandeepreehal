@@ -4,11 +4,13 @@
 ____
 ### About
 
-Gagandeep Reehal is a deep-tech engineer, AI researcher, author and a technology entrepreneur, presently involved in multiple projects related to Applied Artificial Intelligence, Product Design and Inter-disciplinary Research particularly in domain of Cognitive & Human-centered AI, Autonomous Vehicles/Robotics and High Performance Computing
+Gagandeep Reehal is co-founder & CEO of Minus Zero, an autonomous mobility startup based out of India.
 
-Having just been 16 years old when he penned down his first book, he has been writing ever since. He already has three book publications to his credit, with numerous works having been appeared in various magazines and journals.
+Closely working at an intuitive intersection of cognitive AI, autonomy & product engineering, he is working on a radical shift in how autonomous vehicle problem statement is perceived.
 
-He has mentored and judged 65+ developer/hacking events worldwide, spoken at leading conferences, and is currently building his startup 'Minus Zero' working on Self Driving  Cars in India. 
+He has three book publications to his credit, has mentored/judged 65+ developer/hacking events worldwide and spoken at multiple conferences around AI & robotics.
+
+Minus Zero is accelerating the world's transition to driverless cars, taking up an unconventional approach to Self Driving Vehicles, capable of complete autonomy in the trickiest of traffic conditions. They recently became the first company to test an autonomous vehicle live on an unregulated road in India.
 ___
 
 
