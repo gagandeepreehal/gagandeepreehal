@@ -11,14 +11,6 @@ Closely working at an intuitive intersection of cognitive AI, autonomy & product
 He has three book publications to his credit, has mentored/judged 65+ developer/hacking events worldwide and spoken at multiple conferences around AI & robotics.
 
 Minus Zero is accelerating the world's transition to driverless cars, taking up an unconventional approach to Self Driving Vehicles, capable of complete autonomy in the trickiest of traffic conditions. They recently became the first company to test an autonomous vehicle live on an unregulated road in India.
-___
-
-
-### Armoury
-
-- Artificial Intelligence, Deep Learning, Machine Learning, Autonomous Vehicles, Robotics, Computer Vision, Natural Language Processing, Reinforcement Learning, Algorithm Design, Research, Internet of Things
-
-- Python, Java, C++, PyTorch, Tensorflow, Keras, Node.js, MATLAB, OpenCV, Flutter, Jupyter, JavaScript, Anaconda, Scikit-Learn, OS Kernels, Github
 
 ____
 ### Connect with Me -
