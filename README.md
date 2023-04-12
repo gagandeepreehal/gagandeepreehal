@@ -1,7 +1,9 @@
 # Gagandeep Reehal
----
+
 *co-founder, ceo & cto -* **minus zero**
----
+
+___
+
 Gagandeep Reehal is co-founder & CEO of Minus Zero, an autonomous mobility startup based out of India.
 
 Closely working at an intuitive intersection of neuroscience, AI & cognitive computing, he is working on a radical shift in how autonomous vehicle problem statement is perceived - taking small steps towards AGI and major leaps towards autonomy.
