@@ -1,6 +1,5 @@
 # Gagandeep Reehal
 - *Co-Founder, CEO & CTO -* **Minus Zero**
-- *Chief Advisor & Research Scientist-* **Fermi Center for Applied Sciences**
 ____
 ### About
 
